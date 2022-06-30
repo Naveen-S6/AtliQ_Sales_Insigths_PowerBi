@@ -1,5 +1,7 @@
 # AtliQ Sales Insights PowerBi Dashboard
 
+[Codebasics Youtube Playlist](https://youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
+
 ## Problem statement
 AtliQ hardware is a company which delivers computer hardware & peripheral 
 Manufacturers to his clients, which has several branches throughout India. The sales director of the company is facing a lot of
@@ -16,9 +18,9 @@ visual representation to make data driven decisions. So, he hired a team of data
 
 
 ### AIMS Grid
-By using the AIMS grid project management tool, we made sure what is the purpose of our project, 
+By using the AIMS grid project management tool, we made sure what are the purpose, stakeholder, end result and success criteria  of our project, 
 
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/AIMS.jpg" width="400">
+<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/AIMS.jpg" width="550">
 
 
 
