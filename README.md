@@ -18,7 +18,7 @@ visual representation to make data driven decisions. So, he hired a team of data
 ### AIMS Grid
 By using the AIMS grid project management tool, we made sure what is the purpose of our project, 
 
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/AIMS.jpg" width="250">
+<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/AIMS.jpg" width="400">
 
 
 
