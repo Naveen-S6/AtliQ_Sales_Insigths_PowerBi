@@ -4,6 +4,8 @@ This is a project I replicated from Codebasics PowerBi Youtube playlist. You can
 
 [Codebasics Youtube Playlist](https://youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
 
+[Live Report Link](https://www.novypro.com/project/atliq-sales-insights-)
+
 ## Problem statement
 
 AtliQ hardware is a company which delivers computer hardware & peripheral 
